@@ -2,9 +2,9 @@
 
 ### Hello everyone, I'm Julia 👋
 
-- :chart_with_upwards_trend: Only yesterday I was a math teacher, and today **I am a Fron-end Developer**
+- :chart_with_upwards_trend: Only yesterday I was a teacher of math, and today **I am a Fron-end Developer**
 - :dancer: I’m currently learning **Node.js**
-- :computer: I'm study in GOIT Academy on **FullStack Developer**
+- :computer: I'm studying in GOIT Academy on **FullStack Developer**
 - :mailbox_with_mail: How to reach me: **lisuk28071995@gmail.com**
 
 
