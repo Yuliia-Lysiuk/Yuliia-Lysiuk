@@ -1,4 +1,4 @@
-<h1>«Do not wait, the time will never be «just right»</h1>
+<h1>Do not wait, the time will never be «just right»</h1>
 
 ### Hello everyone, I'm Julia 👋
 
